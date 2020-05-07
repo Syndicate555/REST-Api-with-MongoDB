@@ -1,1 +1,2 @@
-# FullStack-Webapp
+# REST API using Express and MongoDb
+I created this RESTful api as part of the backend for my React project in a Hackathon. I used Expressjs and MongoDB to create it. The API also includes login and authentication for the Users. I used bcrypt to hash the passwords before saving them into the mongo database. For the authentication, JSON Web Tokens (JWT) were used to restrict access to an unrestricted route.
